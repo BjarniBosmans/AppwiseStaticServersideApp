@@ -12,7 +12,8 @@ export default {
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: 'Static server-side rendered web app made by Bjarni Bosmans for Appwise.' },
       { name: 'format-detection', content: 'telephone=no' },
-      { name: 'google-site-verification', content: 'FwNFkbqQiFalUO83cMnZpavlTuvEQNOCuYbS4NSaIDc'}
+      { name: 'google-site-verification', content: 'FwNFkbqQiFalUO83cMnZpavlTuvEQNOCuYbS4NSaIDc'},
+      { hid: 'keywords', name: 'keywords', content: 'Static server-side, Appwise, Bjarni Bosmans, website rendering, AppwiseStaticServersideApp, Web app'}
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
