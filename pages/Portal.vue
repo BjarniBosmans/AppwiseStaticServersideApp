@@ -25,26 +25,26 @@
               This is the navigation portal to go to all three of the websites
             </h2>
             <hr>
-            <nuxt-link to="/">
+            <a href="https://bb-clientside.docker-development.appwi.se/">
               <button class="btn btn-primary d-inline-flex flex-row align-items-center">
                 Full client-side website
                 <em class="ml-2" data-feather="arrow-right"></em>
               </button>
-            </nuxt-link>
+            </a>
             <br><br>
-            <nuxt-link to="/">
+            <a href="https://bb-fullserverside.docker-development.appwi.se/">
               <button class="btn btn-primary d-inline-flex flex-row align-items-center">
                 Full server-side website
                 <em class="ml-2" data-feather="arrow-right"></em>
               </button>
-            </nuxt-link>
+            </a>
             <br><br>
-            <nuxt-link to="/">
+            <a href="https://bb-staticserverside.docker-development.appwi.se/">
               <button class="btn btn-primary d-inline-flex flex-row align-items-center">
                 Static server-side website
                 <em class="ml-2" data-feather="arrow-right"></em>
               </button>
-            </nuxt-link>
+            </a>
           </div>
         </div>
       </div>
